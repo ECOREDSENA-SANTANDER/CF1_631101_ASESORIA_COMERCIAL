@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Identificación de nichos de mercado',
+    descripcionCurso:
+      'En este documento se comprenderá el mercadeo y sus componentes necesarios para desarrollar acciones en el mercado dirigidas a los consumidores de un producto o servicio. Igualmente, se entenderán los mercados y el proceso de cómo dividirlos en grupos de clientes potenciales. Por otro lado, se explorarán técnicas e instrumentos de recolección de datos para crear una base de datos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,28 +32,132 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mercadeo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Comprender el mercado y al cliente',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Mezcla de mercadeo',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mercados',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Tipos de mercados',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Clases de mercado',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Otros tipos de mercados',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Características del mercado',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Estrategias del mercado',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Participación del mercado',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Pasos para definir el mercado',
+            hash: 't_2_7',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Segmentación del mercado',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Bases para segmentar mercados de consumo masivo',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Requisitos para segmentar',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Estrategias de cobertura de un mercado meta',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Pasos para segmentar un mercado',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Técnica de recolección de datos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Técnicas',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Instrumentos para la recolección de información',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Bases de datos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Tipos de bases de datos',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Estructura de una base de datos',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Manejo de una base de datos',
+            hash: 't_5_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,31 +207,210 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '1.1.	Comprender el mercado y al cliente',
+      referencia:
+        'QuestioPro. (s.f.). El mercado y las necesidades del cliente en la investigación (Parte I). ',
+      tipo: 'Página web',
+      link:
+        'https://www.questionpro.com/blog/es/mercado-y-necesidades-del-cliente/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '1.2.	Mezcla de mercadeo',
+      referencia: 'Coll, F. (2021). Mezcla de mercadotecnia. Economipedia.',
+      tipo: 'Página web',
+      link:
+        'https://economipedia.com/definiciones/mezcla-de-mercadotecnia.html ',
+    },
+    {
+      tema: '1.2.3. Canales de distribución',
+      referencia:
+        'Rodríguez, I., Maraver, G. & Martínez, F. (s.f.). Canales de distribución. Universitat Oberta de Catalunya. ',
+      tipo: 'Artículo',
+      link:
+        'http://cv.uoc.edu/annotation/e278f6575e9eb38a49450e18f778004e/607706/PID_00195275/PID_00195275.html ',
+    },
+    {
+      tema: '1.2.3. Canales de distribución',
+      referencia: 'Comercionista. (2020). Tipos de mayoristas.',
+      tipo: 'Página web',
+      link: 'https://www.comercionista.com/compras/que-es-un-mayorista-tipos/ ',
+    },
+    {
+      tema: '2.	Mercados. ',
+      referencia: 'Quiroga, M. (2020). Mercado. Economipedia. ',
+      tipo: 'Página web',
+      link: 'https://economipedia.com/definiciones/mercado.html ',
+    },
+    {
+      tema: '2.4. Características del mercado.',
+      referencia: 'Máxima, A. (2019). Características del mercado. ',
+      tipo: 'Página web',
+      link: 'https://www.caracteristicas.co/mercado/#ixzz74Q1rHzhJ ',
+    },
+    {
+      tema: '2.7. Pasos para definir el mercado.',
+      referencia:
+        'WixBlog. (2020). Mercado meta: Qué es, como definirlo y ejemplos. ',
+      tipo: 'Página web',
+      link:
+        'https://es.wix.com/blog/2020/12/mercado-meta-que-es-como-definirlo-y-ejemplos',
+    },
+    {
+      tema: '3.	Segmentos del mercado.',
+      referencia:
+        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de marketing? ',
+      tipo: 'Página web',
+      link: 'https://vilmanunez.com/segmentacion-del-mercado/ ',
+    },
+    {
+      tema: '4.	Técnicas de recolección de datos.',
+      referencia:
+        'QuestionPro. (s.f.). ¿Qué es la recolección de datos y cómo realizarla? ',
+      tipo: 'Página web',
+      link:
+        'https://www.questionpro.com/blog/es/recoleccion-de-datos-para-investigacion/ ',
+    },
+    {
+      tema: '4.1.	Técnicas',
+      referencia:
+        'Westreicher, G. (2021). Recolección de datos. Economipedia. ',
+      tipo: 'Página web',
+      link: 'https://economipedia.com/definiciones/recoleccion-de-datos.html ',
+    },
+    {
+      tema: '4.1. Técnicas',
+      referencia: 'QuestioPro. (s.f.). Encuesta. ',
+      tipo: 'Página web',
+      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
+    },
+    {
+      tema: '4.2.	Instrumentos para la recolección de información',
+      referencia:
+        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico. Investigación en Educación Médica, 2(7), 162-167.',
+      tipo: 'Artículo',
+      link:
+        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009 ',
+    },
+    {
+      tema: '5.	Bases de datos.',
+      referencia:
+        'Nota Tecnológica. (s.f.). Estructura de una base de datos: normalización y más. ',
+      tipo: 'Página web',
+      link:
+        'https://notatecnologica.com/tecnologia/estructura-de-una-base-de-datos/ ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Base de datos',
+      significado:
+        'herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Encuesta',
+      significado:
+        '“Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas” (QuestionPro, s.f.). ',
+    },
+    {
+      termino: 'Entrevista',
+      significado:
+        'charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado. ',
+    },
+    {
+      termino: 'Mercadeo',
+      significado:
+        '“Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes” (Kotler y Armstrong, 2013, p. 35).',
+    },
+    {
+      termino: 'Mercado',
+      significado:
+        '“El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio” (Quiroga, 2020).',
+    },
+    {
+      termino: 'Observación',
+      significado:
+        '“Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis” (Pereda, 2017).',
+    },
+    {
+      termino: 'Posicionamiento',
+      significado:
+        '“Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores” (Kotler y Armstrong, 2013).',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente.',
+    },
+    {
+      termino: 'Ventas',
+      significado:
+        'actividades relacionadas con la venta o la cantidad de bienes vendidos en un período de tiempo determinado. La entrega de un servicio por un costo también se considera una venta.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder.',
+      link: 'https://www.lifeder.com/tecnicas-instrumentos-recoleccion-datos/ ',
+    },
+    {
+      referencia:
+        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico.',
+      link:
+        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
+    },
+    {
+      referencia:
+        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva.',
+      link:
+        'https://uv.unitec.edu/MarcoestrategicodeempresasMB74101/lectura/S101/3/',
+    },
+    {
+      referencia: 'Goñi, Á., N. (2008). El precio. Pearson Prentice Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kendall, K., y Kendall, J. (2011). Análisis y diseño de sistemas. Pearson Education. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Kerin. H., y Rudelius, W. (2014). Marketing. McGraw Hill Education. 11a Edición.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., y Armstrong, G. (2013). Fundamentos de marketing. Pearson Prentice Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
+      link: '',
+    },
+    {
+      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación.',
+      link:
+        'https://es.slideshare.net/guillermopereda/mtodos-y-tcnicas-de-investigacin-79785371',
+    },
+    {
+      referencia: 'QuestioPro. (s.f.). Encuesta.',
+      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
+    },
+    {
+      referencia:
+        'Santesmases, M., Valderrey, F., y Sánchez, A. (2014). Fundamentos de mercadotecnia. Grupo Editorial Patria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de marketing. McGraw Hill Education.',
       link: '',
     },
   ],
@@ -140,9 +424,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -150,9 +434,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Javier del Carmen Martínez Pérez',
+          cargo: 'Instructor Técnico',
+          centro: 'Regional Bolívar - Centro de Comercio y Servicio',
+        },
+        {
+          nombre: 'Zenith Chinchilla Ruedas',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor Metodológico y Pedagógico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Corrector de estilo',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de estilo',
+          centro:
+            'Regional Distrito Capital – Centro de para la Comunicación de la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -160,24 +471,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de Contenidos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Pedro Alonso Bolivar Gonzalez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animador y Productor Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -185,24 +491,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
