@@ -5,7 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Titulo de primer nivel
+      h1 Técnica de recolección de datos 
+    
+    separador
+    #t_4_1.titulo-segundo.mb-4
+      h2 4.1 Técnicas
+      
+    separador
+    #t_4_2.titulo-segundo.mb-4
+      h2 4.2 Instrumentos para la recolección de información
 
 </template>
 

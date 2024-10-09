@@ -5,7 +5,21 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Titulo de primer nivel
+      h1 Bases de datos
+  
+    separador
+    #t_5_1.titulo-segundo.mb-4
+      h2 5.1 Tipos de bases de datos
+      
+    separador
+    #t_5_2.titulo-segundo.mb-4
+      h2 5.2 Estructura de una base de datos
+    
+    separador
+    #t_5_3.titulo-segundo.mb-4
+      h2 5.3 Manejo de una base de datos
+      
+    
 
 </template>
 

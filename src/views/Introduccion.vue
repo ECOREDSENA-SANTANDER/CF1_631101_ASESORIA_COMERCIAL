@@ -9,6 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-4 A continuación, se presenta un video que refiere la introducción de este componente formativo que trata sobre identificación de nichos de mercado: 
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/M68wZYueEq8?si=29j0ES9964Bk0Y5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Identificación de nichos de mercado: introducción
+      
 </template>
 
 <script>
