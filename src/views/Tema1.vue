@@ -144,7 +144,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/img6.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-4
+            .p-4.my-5
               h4.mb-4.text-center Producto
               p.mb-4.text-center Algunos atributos del producto son: 
               .row.justify-content-center.align-items-center
@@ -173,7 +173,7 @@
                     li.d-flex.mb-2
                       i.fas.fa-circle-check
                       p.mb-0 Disponibilidad.
-                    li.d-flex.mb-2
+                    li.d-flex.mb-0
                       i.fas.fa-circle-check
                       p.mb-0 Servicio y precio. 
     
@@ -181,7 +181,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/img7.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-4
+            .p-4.my-5
               h4.mb-4.text-center Servicio
               p.mb-4.text-center Así mismo, se precisan los atributos del servicio como:
               .row.justify-content-center
@@ -909,9 +909,9 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8
         .titulo-sexto.color-secundario.mb-4
-          h5 Figura 10. 
-          |
-        img(src="@/assets/curso/temas/img37.svg", alt="La figura presenta un diagrama que describe el  proceso de la comunicación: el emisor emite un mensaje en un código específico, este mensaje es enviado por un canal o medio hasta el receptor, quien recibe el mensaje y lo descodifica, para luego hacer una retroalimentación al emisor. En medio del proceso se tienen en cuento el ruido que puede afectar el proceso.").img250
+          h5 Figura 11. 
+          | Proceso de la comunicación 
+        img.mb-4(src="@/assets/curso/temas/img37.svg", alt="La figura presenta un diagrama que describe el  proceso de la comunicación: el emisor emite un mensaje en un código específico, este mensaje es enviado por un canal o medio hasta el receptor, quien recibe el mensaje y lo descodifica, para luego hacer una retroalimentación al emisor. En medio del proceso se tienen en cuento el ruido que puede afectar el proceso.").img250
         figcaption Nota. Tomada de Monferrer (2013).
 
     p.mb-4 Para que la empresa pueda comunicarse con su mercado debe utilizar diversas herramientas que hacen efectivo el mensaje que quiere hacer llegar. Kotler y Armstrong (2014), proponen las siguientes herramientas:
@@ -937,7 +937,7 @@
             i.fas.fa-circle-check
             p.mb-0 #[b #[em Marketing] directo:] conexiones directas con consumidores individuales cuidadosamente seleccionados tanto para obtener una respuesta inmediata como para cultivar relaciones duraderas con los clientes.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         .bg3.p-3
           .row.justify-content-around.align-items-center
