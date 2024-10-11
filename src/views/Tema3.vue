@@ -95,7 +95,7 @@
     #t_3_2.titulo-segundo.mb-4
       h2 3.2 Requisitos para segmentar
     
-    .row
+    .row.justify-content-center.align-items-center
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-primario
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Medibles")

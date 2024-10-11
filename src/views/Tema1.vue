@@ -375,7 +375,7 @@
             .row.justify-content-center
               .col-lg-7.col-md-12.mb-4.mb-md-0
                 p.mb-4 A lo largo del ciclo de vida del producto y desde el lanzamiento de este al mercado, la empresa adopta diferentes maneras de comunicarse con los clientes a través de los precios. Los precios son una herramienta muy importante de relacionarse con los clientes sin perder el objetivo final de la empresa, Goñi (2008) manifiesta al respecto,
-                .bloque-texto-b.color-secundario.p-4
+                .bloque-texto-b.color-secundario.p-4.mb-4
                   .bloque-texto-b__texto.ps-3
                     i.fas.fa-quote-left
                     h4.mb-0 (…) cuando un producto está en la etapa de introducción se iniciará con un precio, el cual variará conforme se haga más conocido, haya más competidores o dependiendo de la importancia social de este, como es el caso de las medicinas.
