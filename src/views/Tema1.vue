@@ -621,7 +621,7 @@
           .col-lg-12
             .titulo-sexto.color-secundario.mb-4
               h5 Figura 5. 
-              | Canal de distribución-Integrantes
+              | Canal de distribución - integrantes
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-11
             img(src="@/assets/curso/temas/img25.svg", alt="La representación grafica de cada integrante describe: -El consumidor: la persona que compra el producto. -Los agentes intermediarios: no son propietarios de la mercancía pero apoyan en la transferencia de la propiedad. -El mayorista: empresas que adquieren artículos para vender a su vez, a otras empresas. No al consumidor final. -El minorista: el comercio que vende al cliente final. -El productor: quien fabrica el producto.").img250

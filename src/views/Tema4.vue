@@ -56,7 +56,7 @@
                   h4.mb-3.text-white #[b Técnica de recolección de datos]
                   p.mb-2.text-white En el siguiente documento se pueden revisar las técnicas de recolección de información a profundidad:
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="/downloads/Documento_tecnica_de_recoleccion_de_datos.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Documento_tecnica_de_recoleccion_de_datos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
