@@ -30,7 +30,7 @@
                 i.fas.fa-quote-right
               .row.justify-content-center.align-items-center.mb-2
                 .col-lg-11.mb-lg-0
-                  h3.bloque-texto-f__texto(data-aos="fade-left") Las técnicas de recolección de datos son mecanismos e instrumentos que se utilizan para reunir y medir información de forma organizada y con un objetivo específico.
+                  P.bloque-texto-f__texto(data-aos="fade-left") Las técnicas de recolección de datos son mecanismos e instrumentos que se utilizan para reunir y medir información de forma organizada y con un objetivo específico.
                   .bloque-texto-f__autor.mb-3
                     p.mb-0.text-right.pe-5 (Caro, 2019).
       .col-lg-4.col-md-7.col-7.mb-4
@@ -56,8 +56,8 @@
                   h4.mb-3.text-white #[b Técnica de recolección de datos]
                   p.mb-2.text-white En el siguiente documento se pueden revisar las técnicas de recolección de información a profundidad:
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
-                    span Ir al sitio
+                  a.boton.color-acento-botones(href="/downloads/Documento_tecnica_de_recoleccion_de_datos.pdf" target="_blank")
+                    span Descargar
                     i.fas.fa-file-download
 
     separador

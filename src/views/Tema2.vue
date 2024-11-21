@@ -95,7 +95,7 @@
     
     .row.justify-content-center.align-items-end
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 Con base en la demanda, los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, así, las acciones de marketing de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas. Según el monto de la mercancía hay:
+        p.mb-4 Con base en la demanda, los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, así, las acciones de #[em marketing] de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas. Según el monto de la mercancía hay:
         .bg6.p-4
           ul.lista-ul
             li.d-flex.mb-1
@@ -106,7 +106,7 @@
               p.mb-0 #[b Mercado potencial.] Conformado por todos los entes del mercado total que además de desear un servicio, un bien está en condiciones de adquirirlas.
             li.d-flex.mb-1
               i.fas.fa-circle-check
-              p.mb-0 #[b Mercado meta.] Está configurado por los segmentos del mercado potencial que han sido seleccionados en forma específica, como destinatarios de la gestión de marketing, es el mercado que la empresa desea y decide captar.
+              p.mb-0 #[b Mercado meta.] Está configurado por los segmentos del mercado potencial que han sido seleccionados en forma específica, como destinatarios de la gestión de #[em marketing], es el mercado que la empresa desea y decide captar.
             li.d-flex.mb-1
               i.fas.fa-circle-check
               p.mb-0 #[b Mercado real.] Representa el mercado al cual se ha logrado llegar a los consumidores de los segmentos del mercado meta que se han captado.
@@ -133,7 +133,7 @@
             .col-12.mb-4
               .bg5.p-1 
                 h3.text-center.mb-0 Mercado minorista
-          p.mb-4.text-center Llamados también de retail o menudeo, donde se venden en pequeñas cantidades directamente a los consumidores. Una nueva modalidad de este tipo de mercados se tiene en los supermercados, los que constituyen grandes cadenas u organizaciones que mueven ingentes capitales. En aquellos se estila el "autoservicio", es decir, que el mismo consumidor elige los artículos que va a comprar, eliminándose el empleado dependiente y al pequeño comerciante que
+          p.mb-4.text-center Llamados también de retail o menudeo, donde se venden en pequeñas cantidades directamente a los consumidores. Una nueva modalidad de este tipo de mercados se tiene en los supermercados, los que constituyen grandes cadenas u organizaciones que mueven ingentes capitales. En aquellos se estila el "autoservicio", es decir, que el mismo consumidor elige los artículos que va a comprar, eliminándose el empleado dependiente y al pequeño comerciante que solía interactuar directamente con el cliente.
 
     separador
     #t_2_4.titulo-segundo.mb-5
@@ -243,7 +243,7 @@
       .py-3.py-md-4.bg26.px-3(titulo="Mercado meta")
         .row.justify-content-center.p-4
           .col-lg-12
-            p.mb-4 Se refiere al grupo de personas ideales para adquirir tu servicio o producto, al que debemos dirigir nuestra atención y esfuerzos de marketing. ¿Cómo definir el mercado meta? Seguir estos pasos para poder definir el mercado objetivo:
+            p.mb-4 Se refiere al grupo de personas ideales para adquirir tu servicio o producto, al que debemos dirigir nuestra atención y esfuerzos de #[em marketing.] ¿Cómo definir el mercado meta? Seguir estos pasos para poder definir el mercado objetivo:
             p.mb-4 Analizar los clientes existentes. Recolectar toda la información sobre los clientes actuales y potenciales y tratar de identificar características que tengan en común como edad, sexo, ubicación, intereses, etc.
             p.mb-4 #[b Conoce los beneficios de tu producto.] Cuáles son los elementos de tu producto, y sus beneficios con respecto a otros, así como cuáles son tus áreas de oportunidad.
             p.mb-4 #[b Investiga a tus competidores.] Revisar lo que hacen tus competidores más importantes.

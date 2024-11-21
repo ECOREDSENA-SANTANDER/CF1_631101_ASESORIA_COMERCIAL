@@ -39,7 +39,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Boleanos
+                  h3.text-center.mb-0 Booleanos
             p.text-center(data-aos="fade-right") Poseen dos estados: verdadero “Sí” y falso “No”.
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -180,7 +180,7 @@
                 .titulo-sexto.color-secundario.mb-5
                   h5 Figura 14. 
                   | Estructuras no lineales o simples
-                img(src='@/assets/curso/temas/img81.svg' alt='En la figura se describen estructuras primitivas lineales: las estructuras de datos lineales incluyen pilas, colas y listas ligadas lineales. Estructuras primitivas no lineales: las estructuras de datos no lineales incluyen grafos y arboles')
+                img(src='@/assets/curso/temas/img81.svg' alt='En la figura se describen estructuras primitivas lineales: las estructuras de datos lineales incluyen pilas, colas y listas ligadas lineales. Estructuras primitivas no lineales: las estructuras de datos no lineales incluyen grafos y arboles.')
       .py-3.py-md-4.bg10.px-3(titulo="Estructura de base de datos")
         .row.justify-content-center.p-4
           .col-lg-11
@@ -221,7 +221,7 @@
                   img.img-a.img-t(src='@/assets/curso/temas/img85.svg', alt='Texto que describa la imagen')
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-md-0.my-4
-                p(data-aos="zoom-in-left") El funcionamiento del hardware sin fallas es la base para dotar a un sistema una alta disponibilidad. Para saber cómo presentar el valor de alta disponibilidad a ofrecer se debe tener en cuenta la norma IEEE 762/2006 que suministra el método del cálculo de este indicador para sistemas eléctricos pero es aplicable a todo sistema eléctrico o electrónico.
+                p(data-aos="zoom-in-left") El funcionamiento del #[em hardware] sin fallas es la base para dotar a un sistema una alta disponibilidad. Para saber cómo presentar el valor de alta disponibilidad a ofrecer se debe tener en cuenta la norma IEEE 762/2006 que suministra el método del cálculo de este indicador para sistemas eléctricos pero es aplicable a todo sistema eléctrico o electrónico.
                 p(data-aos="zoom-in-rigth") En dicha norma se mencionan algunos indicadores como lo son: fiabilidad, disponibilidad, tiempo medio entre paradas (MTBF, Mid Time Between Failures), duración de las paradas (MTTR, o Mid Time To Repair), número de paradas por mantenimiento y tiempo total perdido por mantenimiento.
                 p(data-aos="zoom-in-left") Para poder realizar este cálculo se necesita tener registrado en una tabla un registro por cada parada de los servicios con los siguientes datos:
                 ul.lista-ul.left
@@ -238,11 +238,14 @@
                 figure
                   img.img-a.img-t(src='@/assets/curso/temas/img86.svg', alt='Texto que describa la imagen')
             .row.justify-content-center.align-items-center
-              .col-lg-7.mb-4.mb-md-0 
-                p(data-aos="zoom-in-left") Convertir los elementos de información en columnas. Decida qué información quiere almacenar en cada tabla. Cada elemento se convierte en un campo y se muestra como una columna en la tabla. Por ejemplo, una tabla de clientes de seguros podría incluir campos como se muestra en la figura.
-              .col-lg-4.col-md-10.mb-4.mb-md-0 
+              .col-lg-6.mb-4.mb-md-0 
+                p(data-aos="zoom-in-left") Convertir los elementos de información en columnas. Decida qué información quiere almacenar en cada tabla. Cada elemento se convierte en un campo y se muestra como una columna en la tabla. Por ejemplo, una tabla de clientes de seguros podría incluir campos como se presenta en la figura.
+              .col-lg-6.col-md-12 
+                .titulo-sexto.color-secundario.mb-3
+                  h5 Figura 15. 
+                  | Campos y tablas
                 figure
-                  img.img-a.img-t(src='@/assets/curso/temas/img87.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/temas/img92.svg', alt='La figura presenta 1 objeto y dos clases (en terminos de programación) con diferentes atributos pero que se relacionan entre si.')
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-md-0 
                 p(data-aos="zoom-in-left") Especificar las claves principales. Elija la clave principal de cada tabla. La clave principal es una columna que se usa para identificar cada fila; un ejemplo podría ser Id. de producto o Id. de pedido

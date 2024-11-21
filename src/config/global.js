@@ -258,7 +258,7 @@ export default {
     {
       tema: '3.	Segmentos del mercado.',
       referencia:
-        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de marketing? ',
+        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de <em>marketing</em>? ',
       tipo: 'Página web',
       link: 'https://vilmanunez.com/segmentacion-del-mercado/ ',
     },
@@ -294,10 +294,9 @@ export default {
     {
       tema: '5.	Bases de datos.',
       referencia:
-        'Nota Tecnológica. (s.f.). Estructura de una base de datos: normalización y más. ',
+        'Saavedra, J. A. (2023, julio 16). ¿Qué es la normalización de bases de datos y cómo hacerla? Ebac.',
       tipo: 'Página web',
-      link:
-        'https://notatecnologica.com/tecnologia/estructura-de-una-base-de-datos/ ',
+      link: 'https://ebac.mx/blog/normalizacion-de-bases-de-datos',
     },
   ],
   glosario: [
@@ -309,7 +308,7 @@ export default {
     {
       termino: 'Encuesta',
       significado:
-        '“Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas” (QuestionPro, s.f.). ',
+        'Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas (QuestionPro, s.f.). ',
     },
     {
       termino: 'Entrevista',
@@ -319,22 +318,22 @@ export default {
     {
       termino: 'Mercadeo',
       significado:
-        '“Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes” (Kotler y Armstrong, 2013, p. 35).',
+        'Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes (Kotler y Armstrong, 2013, p. 35).',
     },
     {
       termino: 'Mercado',
       significado:
-        '“El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio” (Quiroga, 2020).',
+        'El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio (Quiroga, 2020).',
     },
     {
       termino: 'Observación',
       significado:
-        '“Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis” (Pereda, 2017).',
+        'Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis (Pereda, 2017).',
     },
     {
       termino: 'Posicionamiento',
       significado:
-        '“Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores” (Kotler y Armstrong, 2013).',
+        'Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores (Kotler y Armstrong, 2013).',
     },
     {
       termino: 'Segmentación',
@@ -350,7 +349,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
+        'Arellano, C., R. (2010). <em>Marketing</em> enfoque América Latina. Pearson Prentice Hall.',
       link: '',
     },
     {
@@ -381,17 +380,17 @@ export default {
     },
     {
       referencia:
-        'Kerin. H., y Rudelius, W. (2014). Marketing. McGraw Hill Education. 11a Edición.',
+        'Kerin. H., y Rudelius, W. (2014). <em>Marketing</em>. McGraw Hill Education. 11a Edición.',
       link: '',
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2013). Fundamentos de marketing. Pearson Prentice Hall.',
+        'Kotler, P., y Armstrong, G. (2013). Fundamentos de <em>marketing.</em> Pearson Prentice Hall.',
       link: '',
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
+        'Kotler, P., y Armstrong, G. (2012). <em>Marketing</em>. Pearson Prentice Hall.',
       link: '',
     },
     {
@@ -410,7 +409,7 @@ export default {
     },
     {
       referencia:
-        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de marketing. McGraw Hill Education.',
+        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de <em>marketing.</em> McGraw Hill Education.',
       link: '',
     },
   ],

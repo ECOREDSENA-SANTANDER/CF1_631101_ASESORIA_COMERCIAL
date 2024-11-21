@@ -41,7 +41,7 @@
                   p.mb-0 Establecer el mejor precio para sus productos.
                 li.d-flex.mb-2
                   i.fas.fa-circle-check
-                  p.mb-0 Crear el mensaje de marketing adecuado.
+                  p.mb-0 Crear el mensaje de #[em marketing] adecuado.
                 li.d-flex.mb-2
                   i.fas.fa-circle-check
                   p.mb-0 Aumentar la cantidad que satisface la demanda de sus clientes.
@@ -133,7 +133,7 @@
             .bloque-texto-b.color-secundario.p-4
               .bloque-texto-b__texto.ps-3
                 i.fas.fa-quote-left
-                h4.mb-0  … cualquier bien que se ofrezca a un mercado para su atención, adquisición, uso o consumo, y que podría satisfacer un deseo o una necesidad . Mientras que el servicio la define como la “actividad, beneficio o satisfacción que se ofrece por una venta, que básicamente es intangible y no tiene como resultado la posesión de algo (p. 224). 
+                p.mb-0  … cualquier bien que se ofrezca a un mercado para su atención, adquisición, uso o consumo, y que podría satisfacer un deseo o una necesidad. Mientras que el servicio la define como la “actividad, beneficio o satisfacción que se ofrece por una venta, que básicamente es intangible y no tiene como resultado la posesión de algo (p. 224). 
                 i.fas.fa-quote-right
         p.mb-3 El propósito de toda empresa es que sus productos sean reconocidos en el mercado; es decir, que el producto se convierta en una #[b marca], que según la SIC (2021), “es una categoría de signo distintivo que identifica los productos o servicios de una empresa o empresario”.
 
@@ -211,7 +211,7 @@
                       i.fas.fa-circle-check
                       p.mb-0 Precio.
     
-    p.mb-4(data-aos="fade-left") Por otra parte, se debe tener en cuenta que los productos y servicios se componen de tres niveles, cada uno agrega valor para el cliente y deben considerarse a la hora de su planificación. Como se muestra en la siguiente figura:
+    p.mb-4(data-aos="fade-left") Por otra parte, se debe tener en cuenta que los productos y servicios se componen de tres niveles, cada uno agrega valor para el cliente y deben considerarse a la hora de su planificación. Como se presenta en la siguiente figura:
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6
@@ -246,7 +246,7 @@
               .bloque-texto-b.color-secundario.p-4
                 .bloque-texto-b__texto.ps-3
                   i.fas.fa-quote-left
-                  h4.mb-0 el punto en el que se iguala el valor monetario de un producto para el comprador con el valor de realizar la transacción para el vendedor (p. 201).
+                  p.mb-0 el punto en el que se iguala el valor monetario de un producto para el comprador con el valor de realizar la transacción para el vendedor (p. 201).
                   i.fas.fa-quote-right
               p.mb-0 La gran mayoría de productos tiene libertad de precios y estos se definen por acción de la oferta y la demanda, otros son controlados por el Gobierno, como los servicios de energía, agua, el transporte público o algunas drogas medicinales. 
 
@@ -260,11 +260,11 @@
               .col-lg-7.col-md-12.mb-4.mb-md-0
                 h4.mb-4 Diferentes formas de precio
                 p Cada servicio o producto tiene una manera de fijar el precio de su oferta, aquí algunos ejemplos:
-              .col-lg-5.col-md-12
+              .col-lg-5.col-md-12(alt="La tabla contiene dos columnas, la primera menciona algunos ejemplos de productos o servicios: Alquiler,  pensión, honorarios, pasaje, interés, sueldo, propina, prima, impuesto y comisión; y la segunda columna menciona las actividades en las cuales se pueden fijar los precios: apartamento, colegios, servicios profesionales, transporte, crédito, ejecutivo, mesero, seguro, gobierno, vendedor.")
                 .titulo-sexto.color-secundario.mb-4
                   h5 Tabla 1. 
                   | Maneras para fijar un precio
-                .row.justify-content-center(data-aos="zoom-in-left")(alt="")
+                .row.justify-content-center(data-aos="zoom-in-left")
                   .col-lg-12
                     .tabla-a.tabla-peq
                       table    
@@ -308,11 +308,11 @@
               .col-lg-5.col-md-12
                 .titulo-sexto.color-secundario.mb-4(data-aos="fade-right")
                   h5 Figura 3.
-                  | Precio vs. Cantidad
+                  | Precio vs. cantidad
                 .row.justify-content-center
                   .col-lg-12
                     .white.p-4
-                      img.img-a.img-t(src='@/assets/curso/temas/img11.svg', alt='La grafica presenta la grafica de una línea recta sobre un plano cartesiano, que se crea con puntos donde la cantidad aumenta(eje X), y el precio disminuye(eje Y)')
+                      img.img-a.img-t(src='@/assets/curso/temas/img11.svg', alt='La grafica presenta la grafica de una línea recta sobre un plano cartesiano, que se crea con puntos donde la cantidad aumenta (eje X), y el precio disminuye (eje Y)')
                     figcaption Nota. Tomada de Goñi (2008).
         .row.justify-content-center.align-items-center.mb-4(titulo="Importancia")
           .col-lg-11
@@ -462,18 +462,18 @@
         p.mb-4 De acuerdo con Arellano (2010)
         .row.mb-4
           .col-lg-12
-            .bloque-texto-b.color-secundario.p-4
-              .bloque-texto-b__texto.ps-3
+            .bloque-texto-b.color-secundario.p-1
+              .bloque-texto-b__texto.ps-3.my-4
                 i.fas.fa-quote-left
-                h4.mb-0(data-aos="fade-right") son los organismos independientes que se encargan de la tarea de distribución entre la empresa productora y los clientes (p. 341). 
+                p.mb-0(data-aos="fade-right") son los organismos independientes que se encargan de la tarea de distribución entre la empresa productora y los clientes (p. 341). 
                 i.fas.fa-quote-right
         p.mb-4 Para Kerin, Hartley y Rudelius (2014) la distribución consiste
         .row.mb-4
           .col-lg-12
-            .bloque-texto-b.color-secundario.p-4
-              .bloque-texto-b__texto.ps-3
+            .bloque-texto-b.color-secundario.p-1
+              .bloque-texto-b__texto.ps-3.my-4
                 i.fas.fa-quote-left
-                h4.mb-0(data-aos="fade-left") (…) en individuos y empresas que participan en el proceso que permite hacer disponible un bien o servicio para su uso o consumo por los consumidores finales o por los usuarios industriales (p. 392). 
+                p.mb-0(data-aos="fade-left") (…) en individuos y empresas que participan en el proceso que permite hacer disponible un bien o servicio para su uso o consumo por los consumidores finales o por los usuarios industriales (p. 392). 
                 i.fas.fa-quote-right
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -488,7 +488,7 @@
                   h4.mb-3.text-white #[b Canales de distribución]
                   p.mb-2.text-white Consulte el siguiente video, que describe brevemente los componentes y actores dentro del proceso de distribución.
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
+                  a.boton.color-acento-botones(href="https://youtu.be/WJF5aB-LPA8" target="_blank")
                     span Ir al sitio
                     i.fas.fa-file-download
     
@@ -605,7 +605,7 @@
               p.text-white Los consumidores finales realizan sus pedidos a los intermediarios y éstos a su vez a los fabricantes.
             .tarjeta.color-acento-con.p-4(x="53.4%" y="19.5%" numero="") 
               h3.mb-4.text-white Flujo físico
-              p.text-white Describe los esplazamientos reales del producto desde el productor hasta el consumidor final, pasando por los sucesivos intermediarios.
+              p.text-white Describe los desplazamientos reales del producto desde el productor hasta el consumidor final, pasando por los sucesivos intermediarios.
     
     .sub.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -823,7 +823,7 @@
                   p.mb-0 Corredores y agentes.
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
-                  p.mb-0 Proveedores de dropshipping.
+                  p.mb-0 Proveedores de #[em dropshipping.]
             .col-lg-5(data-aos="fade-right")
               p.mb-3 Otros tipos:
               ul.lista-ul
@@ -874,7 +874,7 @@
                       p.mb-0 Venta de fábrica.
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Venta de fábrica.
+                      p.mb-0 Supertienda.
                 .col-lg-7(data-aos="fade-right")
                   p.mb-2 Otros tipos de negocios minoristas sin tiendas:
                   ul.lista-ul
@@ -895,7 +895,7 @@
                       p.mb-0 Correo y catálogos.
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 Máquinas expendedoras o #[em Vending.]
+                      p.mb-0 Máquinas expendedoras o #[em vending.]
           .col-lg-4.col-md-7.col-7.mb-4
             img(src='@/assets/curso/temas/img36.png', alt='tema1')
     
@@ -946,10 +946,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-3.text-white #[b Comunicaciones integrales de marketing]
+                  h4.mb-3.text-white #[b Comunicaciones integrales de #[em marketing]]
                   p.mb-2.text-white Consulte el siguiente video, que describe brevemente las comunicaciones integrales de #[em marketing.]
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://youtu.be/ZtS0dRaNtfM" target="_blank")
+                  a.boton.color-acento-botones(href="https://youtu.be/BA9xL5-2-Vc" target="_blank")
                     span Ir al sitio
                     i.fas.fa-file-download
 </template>

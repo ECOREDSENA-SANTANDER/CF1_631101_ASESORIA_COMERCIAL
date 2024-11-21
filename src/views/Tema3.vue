@@ -28,7 +28,7 @@
                   h4.mb-3.text-white #[b Segmentación del mercado]
                   p.mb-2.text-white Consulte el siguiente video, que describe brevemente la segmentación del mercado.
                 .col-lg-auto.pe-lg-5
-                  a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
+                  a.boton.color-acento-botones(href="https://youtu.be/NGEz1Bae9rs" target="_blank")
                     span Ir al sitio
                     i.fas.fa-file-download
 
@@ -101,23 +101,23 @@
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Medibles")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Accesibles:] los segmentos de mercado pueden ser efectivamente alcanzados y atendidos, esto es las acciones de mercadeo que tenga la empresa hacia el segmento son recibidas y tienen un efecto reactivo.
+                p.mb-0(data-aos="fade-right") Pueden medirse el tamaño, el poder adquisitivo y los perfiles de los segmentos.
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Accesibles")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Medibles:] pueden medirse el tamaño, el poder adquisitivo y los perfiles de los segmentos.
+                p.mb-0(data-aos="fade-right") Los segmentos de mercado pueden ser efectivamente alcanzados y atendidos, esto es las acciones de mercadeo que tenga la empresa hacia el segmento son recibidas y tienen un efecto reactivo.
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Rentables")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Rentables:] son lo suficientemente grandes o rentables para atenderlos. Un segmento debe ser el grupo homogéneo más grande posible en el que valga la pena dirigir acciones de mercadeo a la medida.
+                p.mb-0(data-aos="fade-right") Son lo suficientemente grandes o rentables para atenderlos. Un segmento debe ser el grupo homogéneo más grande posible en el que valga la pena dirigir acciones de mercadeo a la medida.
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Diferenciables")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Diferenciables:] los segmentos deben responder de diferente manera a distintos elementos y acciones de la mezcla de #[em marketing.]
+                p.mb-0(data-aos="fade-right") Los segmentos deben responder de diferente manera a distintos elementos y acciones de la mezcla de #[em marketing.]
           .tarjeta.color-acento-botones.bg77.p-4(titulo="Procesables")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Procesables:] debe ser posible atraer los segmentos y servirlos. Quiere decir que si una empresa identifica varios segmentos, debe estar en capacidad de atenderlo o escoger los segmentos a su alcance.
+                p.mb-0(data-aos="fade-right") Debe ser posible atraer los segmentos y servirlos. Quiere decir que si una empresa identifica varios segmentos, debe estar en capacidad de atenderlo o escoger los segmentos a su alcance.
       .col-lg-3.col-md-7.col-7.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/img60.png", alt="alt").img250
 
@@ -135,7 +135,7 @@
             i.fas.fa-quote-right
           .row.justify-content-center.align-items-center.mb-2
             .col-lg-11.mb-lg-0
-              h3.bloque-texto-f__texto(data-aos="fade-left") Un mercado meta consiste en un conjunto de compradores que comparten necesidades o características comunes que la empresa decide atender.
+              P.bloque-texto-f__texto(data-aos="fade-left") Un mercado meta consiste en un conjunto de compradores que comparten necesidades o características comunes que la empresa decide atender.
               .bloque-texto-f__autor.mb-3
                 p.mb-0.text-right.pe-5 (Kotler y Armstrong, 2013).  
                                                                               

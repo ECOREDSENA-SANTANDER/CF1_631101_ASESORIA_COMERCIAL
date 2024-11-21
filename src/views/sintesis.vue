@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En el diagrama se presenta la estructura de contenidos relacionados con la identificación de nichos de mercado, organizada en cuatro áreas principales: Mercadeo, Mercado, Segmentación de mercado y Técnicas de recolección de datos. Cada área desglosa subtemas específicos que abarcan desde estrategias y pasos para definir mercados hasta técnicas e instrumentos para la recolección de información, brindando un marco integral para el análisis y comprensión del mercado.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
