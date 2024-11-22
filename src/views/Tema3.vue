@@ -39,7 +39,7 @@
     p.mb-4 Con el proceso de segmentación se procura que la empresa tenga que definir qué mercado está en capacidad de atender utilizando todos sus recursos. Para hacer este proceso se deben identificar cuáles son esas variables que tiene que manipular para definir ese mercado, eso no quiere decir que no pueda usar los demás; esto depende de su apalancamiento en recursos, tanto humanos, financieros o de producción. Entre las principales variables a atender están las geográficas, demográficas, psicográficas y conductuales.
     p.mb-4 En el siguiente recurso se precisan aspectos relacionados con cada una de ellas:
     
-    .row.fondo_.align-items-center.p-3.mb-5(data-aos="fade-down")
+    .row.fondo_.align-items-center.p-3(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
     
@@ -48,7 +48,7 @@
             PasosA.color-acento-contenido.mb-0(tipo="n")
               .row
                 .col-lg
-                  h3 Geográfica
+                  h4 Geográfica
                   p Lugar donde vive la gente y que tiene características similares en cuanto a forma de gobierno, cultura, religión, costumbres. Esta segmentación procura dividir el mercado en diferentes áreas geográficas como países, regiones, ciudades, áreas o localidades en las que pueda operar la empresa teniendo en cuenta las necesidades y deseos de los consumidores.
                 .col-auto
                   figure(data-aos="zoom-in")
@@ -58,11 +58,11 @@
                   figure(data-aos="zoom-in")
                     img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/img57.svg', alt='')
                 .col-lg
-                  h3.left Demográfica
+                  h4.left Demográfica
                   p.left Permite definir el perfil del consumidor de manera objetiva. La segmentación demográfica divide el mercado en segmentos con base en variables como la edad, etapa del ciclo de vida, género, nivel socioeconómico, ingresos, estado civil, ocupación, educación, religión, origen étnico y generación.
               .row
                 .col-lg
-                  h3 Psicográfica
+                  h4 Psicográfica
                   p Esta variable divide a los consumidores en diferentes segmentos con base en características como la personalidad, las preferencias de las personas, el estilo de vida o la clase social según el análisis de su conducta. Las personas del mismo grupo demográfico pueden tener características psicográficas muy distintas. Se hace de vital importancia entender los grupos como unidades de estudio para entender su comportamiento de consumo.
                 .col-auto
                   figure(data-aos="zoom-in")
@@ -71,8 +71,8 @@
                 .col-auto
                   figure(data-aos="zoom-in")
                     img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/img59.svg', alt='')
-                .col-lg-10
-                  h3.left Conductual
+                .col-lg
+                  h4.left Conductual
                   p.left La variable conductual divide a los compradores en segmentos basados en sus conocimientos, actitudes, usos o respuestas a la utilización de un o la respuesta frente a un determinado artículo producto. Las empresas utilizan esta segmentación a través de la conducta del consumidor, pues su manera de comprar generaría nuevos segmentos. Se puede segmentar teniendo en cuenta:
                   .row.justify-content-center.align-items-center
                     .col-lg-12
@@ -92,6 +92,8 @@
                         li.d-flex.mb-1
                           i.fas.fa-circle-check
                           p.mb-0 #[b Nivel de fidelidad:] un comprador puede ser leal a las marcas y otros preferirán cambiar para probar otras.
+    
+    separador
     #t_3_2.titulo-segundo.mb-4
       h2 3.2 Requisitos para segmentar
     
@@ -176,7 +178,7 @@
             PasosA.color-acento-contenido.mb-0(tipo="n")
               .row
                 .col-lg
-                  h3 Investigar el mercado
+                  h4 Investigar el mercado
                   p Para ver qué oferta podremos dar al público seleccionado, se desarrollan entrevistas informales con grupos de consumidores para entender motivaciones, actitudes y comportamientos, a través de un cuestionario. Incluyendo:
                   ul.lista-ul.left
                     li.d-flex.mb-1
@@ -199,7 +201,7 @@
                   figure(data-aos="zoom-in")
                     img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/img63.svg', alt='')
                 .col-lg
-                  h3.left Etapa de análisis
+                  h4.left Etapa de análisis
                   p.left Identificar los grupos homogéneos pero diferentes a los demás. Donde se:
                   ul.lista-ul.left
                     li.d-flex.mb-1
@@ -210,7 +212,7 @@
                       p.mb-0 Realiza la microsegmentación.
               .row
                 .col-lg
-                  h3 Definición de los perfiles
+                  h4 Definición de los perfiles
                   p Se define cada grupo de acuerdo con sus actitudes, comportamientos, factores demográficos y psicográficos. Aplica los criterios de segmentación y tiene en cuenta sus características.
                 .col-auto
                   figure(data-aos="zoom-in")

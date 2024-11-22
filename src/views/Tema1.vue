@@ -113,7 +113,7 @@
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Productos, servicios y marcas
     
     p.mb-4(data-aos="fade-left") En este factor la empresa debe decidir lo que vende la empresa y el mercado en el que se encuentra, además, debe tener en cuenta que el producto que tenga éxito y sea innovador hoy puede convertirse en el #[em commodity] de mañana. Es por esto que se debe pensar en los productos actuales y en los potenciales. 
@@ -142,9 +142,9 @@
     .row.justify-content-center(data-aos="fade-down")
       .col-md-6.col-lg-5.col-12.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img6.svg' alt='')
+          img.img-a.img-t.wid(src='@/assets/curso/temas/img6.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-5
+            .p-3.my-2.my-md-4.my-lg-5.p-lg-4
               h4.mb-4.text-center Producto
               p.mb-4.text-center Algunos atributos del producto son: 
               .row.justify-content-center.align-items-center
@@ -179,9 +179,9 @@
     
       .col-md-6.col-lg-5.col-12.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img7.svg' alt='')
+          img.img-a.img-t.wid(src='@/assets/curso/temas/img7.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-5
+            .p-3.my-2.my-md-4.my-lg-5.p-lg-4
               h4.mb-4.text-center Servicio
               p.mb-4.text-center Así mismo, se precisan los atributos del servicio como:
               .row.justify-content-center
@@ -227,11 +227,11 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 En ese sentido, se precisa que los productos de consumo tienen un uso final, mientras que los productos industriales son utilizados para un proceso o para distribuirlo a otros clientes.
       .col-lg-4.col-md-7.col-7.mb-4
-        img.img-a.img-t(src='@/assets/curso/temas/img9.svg', alt='tema1')
+        img.img-a.img-t(src='@/assets/curso/temas/img9.png', alt='tema1')
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Fijación de precios
 
     .row.justify-content-center.mb-5
@@ -446,7 +446,7 @@
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Canales de distribución
 
     .row.justify-content-center.align-items-center.mb-2
@@ -501,7 +501,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Canal de distribución 
+                h4.text-center.mb-0 Canal de distribución 
           p.mb-4.text-center Red de organismos para ejercer la acción de distribución.
       .col-lg-4.col-md-6.mb-4(data-aos="fade-left")
         .overflow-hidden.h-100.bg4.p-4
@@ -509,7 +509,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Gestión de canales de distribución 
+                h4.text-center.mb-0 Gestión de canales de distribución 
           p.mb-4.text-center Relaciones de los miembros con el canal de distribución.
       .col-lg-4.col-md-6.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.bg4.p-4
@@ -517,7 +517,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Gestión física 
+                h4.text-center.mb-0 Gestión física 
           p.mb-4.text-center Conecta a la empresa con los clientes.
     
     .sub.mb-4(data-aos="fade-right")
@@ -730,7 +730,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 9. 
           | Estructura de los canales de distribución
-        img(src="@/assets/curso/temas/img31.svg", alt="La figura presenta un diagrama donde se ilustra el siguiente  flujo: materias primas, proveedores, fabricas, centros de distribución, mayoristas - distribuidores, minoristas y cliente final.").img250
+        img(src="@/assets/curso/temas/img31.png", alt="La figura presenta un diagrama donde se ilustra el siguiente  flujo: materias primas, proveedores, fabricas, centros de distribución, mayoristas - distribuidores, minoristas y cliente final.").img250
         figcaption Nota. Tomada de SENA (2013).
 
     .sub.mb-5(data-aos="fade-right")
@@ -791,7 +791,7 @@
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Ventas al por mayor y por menor
     
     .sub.mb-4(data-aos="fade-right")
@@ -901,7 +901,7 @@
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Comunicación 
 
     p.mb-4(data-aos="fade-left") Después de desarrollar un producto, fijarle un precio según el ciclo de vida de este, estructurar el canal de distribución accesible a un mercado objetivo, la comunicación con ese mercado objetivo es de vital importancia. Pero, ¿qué es la comunicación? De acuerdo con Kerin, Hartley y Rudelius (2014, p. 450), la comunicación es el proceso de transmitir un mensaje a otros y requiere seis elementos: fuente o emisor, mensaje, canal de comunicación, receptor y procesos de codificación y decodificación. 

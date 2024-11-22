@@ -124,7 +124,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Mercado mayorista
+                h4.text-center.mb-0 Mercado mayorista
           p.mb-4.text-center En este tipo de mercado es donde se venden mercaderías al por mayor y en grandes cantidades. Allí acuden, generalmente, los intermediarios y distribuidores a comprar en cantidad los productos que después han de revender a otros comerciantes, a precios mayores y caprichosamente elevados.
       .col-lg-6.col-md-6.mb-4
         .overflow-hidden.h-100.bg4.p-4
@@ -132,7 +132,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Mercado minorista
+                h4.text-center.mb-0 Mercado minorista
           p.mb-4.text-center Llamados también de retail o menudeo, donde se venden en pequeñas cantidades directamente a los consumidores. Una nueva modalidad de este tipo de mercados se tiene en los supermercados, los que constituyen grandes cadenas u organizaciones que mueven ingentes capitales. En aquellos se estila el "autoservicio", es decir, que el mismo consumidor elige los artículos que va a comprar, eliminándose el empleado dependiente y al pequeño comerciante que solía interactuar directamente con el cliente.
 
     separador
@@ -173,9 +173,9 @@
     .row.justify-content-center(data-aos="fade-down")
       .col-md-6.col-lg-5.col-12.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img47.svg' alt='')
+          img.img-a.img-t.wid(src='@/assets/curso/temas/img47.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-5
+            .p-3.my-2.my-md-4.my-lg-5.p-lg-4
               h4.mb-4.text-center Estrategias de crecimiento
               .row.justify-content-center
                 .col-lg-7.col-md-12.col-10
@@ -195,9 +195,9 @@
     
       .col-md-6.col-lg-5.col-12.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/img48.svg' alt='')
+          img.img-a.img-t.wid(src='@/assets/curso/temas/img48.svg' alt='')
           .tarjeta.bg2
-            .p-4.my-5
+            .p-3.my-2.my-md-4.my-lg-5.p-lg-4
               h4.mb-4.text-center Estrategias competitivas
               .row.justify-content-center
                 .col-lg-7.col-md-12.col-10

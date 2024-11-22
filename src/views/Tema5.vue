@@ -17,7 +17,7 @@
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img.subi(src='@/assets/curso/temas/icono.svg', alt='')
         h3.mb-0.ms-2 Tipo de dato (tipo de campo)
     
     p.mb-5 Cada sistema de base de datos tiene tipos de campos que pueden ser similares o diferentes; entre los más comunes se pueden nombrar:
@@ -30,7 +30,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Númerico
+                  h4.text-center.mb-0 Númerico
             p.text-center(data-aos="fade-right") Entre los diferentes tipos de campos numéricos se pueden encontrar enteros “sin decimales” y reales “decimales”.
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -39,7 +39,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Booleanos
+                  h4.text-center.mb-0 Booleanos
             p.text-center(data-aos="fade-right") Poseen dos estados: verdadero “Sí” y falso “No”.
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -48,7 +48,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Memos
+                  h4.text-center.mb-0 Memos
             p.text-center(data-aos="fade-right") Son campos alfanuméricos de longitud ilimitada. Presentan el inconveniente de no poder ser indexados.					
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -57,7 +57,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Fechas
+                  h4.text-center.mb-0 Fechas
             p.text-center(data-aos="fade-right") Almacenan fechas facilitando su explotación. Almacenar fechas de esta forma posibilita ordenar los registros por fechas o calcular los días entre una fecha y otra.
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -66,7 +66,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Alfanúmericos
+                  h4.text-center.mb-0 Alfanúmericos
             p.text-center(data-aos="fade-right") Contienen cifras y letras. Presentan una longitud limitada (255 caracteres).
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -75,7 +75,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h3.text-center.mb-0 Auto incrementables
+                  h4.text-center.mb-0 Auto incrementables
             p.text-center(data-aos="fade-right") Son campos numéricos enteros que incrementan en una unidad su valor para cada registro incorporado. Su utilidad resulta: servir de identificador ya que resultan exclusivos de un registro.
     
     p.mb-5 Las bases de datos más conocidas son:
@@ -150,7 +150,7 @@
           .col-lg-4
             h4.mb-4 Primitivas
             p.mb-4 Compuestas por otras estructuras de datos así:
-          .col-lg-6
+          .col-lg-5
             ImagenInfografica.color-acent
               template(v-slot:imagen)
                 figure

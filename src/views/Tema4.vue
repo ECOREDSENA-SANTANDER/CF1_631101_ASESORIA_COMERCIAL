@@ -79,7 +79,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Método interactivo
+                h4.text-center.mb-0 Método interactivo
           p.mb-4.text-center Consiste en tener contacto con alguien, este método se propone utilizar herramientas básicas como: entrevista, cuestionarios y talleres de trabajo de JAD (diseño conjunto de aplicaciones), este último demanda cierta especialización. 
       .col-lg-6.col-md-6.mb-4
         .overflow-hidden.h-100.bg4.p-4
@@ -87,7 +87,7 @@
           .row.justify-content-center.mb-3
             .col-12.mb-4
               .bg5.p-1 
-                h3.text-center.mb-0 Método intrusivo
+                h4.text-center.mb-0 Método intrusivo
           p.mb-4.text-center Permiten a los analistas realizar una descripción más clara y completa de los requerimientos para este método, plantea la observación, investigación y el muestreo; es muy utilizado en la investigación aplicada. 
 
 
