@@ -30,7 +30,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h4.text-center.mb-0 Númerico
+                  h4.text-center.mb-0 Numérico
             p.text-center(data-aos="fade-right") Entre los diferentes tipos de campos numéricos se pueden encontrar enteros “sin decimales” y reales “decimales”.
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -66,7 +66,7 @@
             .row.justify-content-center
               .col-10.mb-4
                 .bgw.p-1 
-                  h4.text-center.mb-0 Alfanúmericos
+                  h4.text-center.mb-0 Alfanuméricos
             p.text-center(data-aos="fade-right") Contienen cifras y letras. Presentan una longitud limitada (255 caracteres).
       .tarjeta.color.p-4
         .row.justify-content-center
@@ -248,7 +248,7 @@
                   img.img-a.img-t(src='@/assets/curso/temas/img92.svg', alt='La figura presenta 1 objeto y dos clases (en terminos de programación) con diferentes atributos pero que se relacionan entre si.')
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-md-0 
-                p(data-aos="zoom-in-left") Especificar las claves principales. Elija la clave principal de cada tabla. La clave principal es una columna que se usa para identificar cada fila; un ejemplo podría ser Id. de producto o Id. de pedido
+                p(data-aos="zoom-in-left") Especificar las claves principales. Elija la clave principal de cada tabla. La clave principal es una columna que se usa para identificar cada fila; un ejemplo podría ser Id. de producto o Id. de pedido.
               .col-lg-4.col-md-10.mb-4.mb-md-0 
                 figure
                   img.img-a.img-t(src='@/assets/curso/temas/img88.svg', alt='Texto que describa la imagen')

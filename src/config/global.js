@@ -191,7 +191,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF1_631101_DU.zip',
       },
       {
         icono: 'fas fa-download',
