@@ -465,7 +465,7 @@
             .bloque-texto-b.color-secundario.p-1
               .bloque-texto-b__texto.ps-3.my-4
                 i.fas.fa-quote-left
-                p.mb-0(data-aos="fade-right") son los organismos independientes que se encargan de la tarea de distribución entre la empresa productora y los clientes (p. 341). 
+                p.mb-0(data-aos="fade-right") Son los organismos independientes que se encargan de la tarea de distribución entre la empresa productora y los clientes (p. 341). 
                 i.fas.fa-quote-right
         p.mb-4 Para Kerin, Hartley y Rudelius (2014) la distribución consiste
         .row.mb-4

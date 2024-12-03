@@ -439,7 +439,7 @@ export default {
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñadora instruccional',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
@@ -449,7 +449,7 @@ export default {
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Corrector de estilo',
+          cargo: 'Asesor pedagógico',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

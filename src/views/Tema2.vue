@@ -232,7 +232,7 @@
     #t_2_7.titulo-segundo.mb-4
       h2 2.7 Pasos para definir el mercado
 
-    p.mb-4 La empresa debe saber quienes  son los consumidores a los que va dirigida su oferta y cada decisión hacia ellos, a ese grupo de clientes se le llama “mercado objetivo” o “mercado meta”.  Con ese mercado meta se puede tomar la decisión de qué publicidad se va a usar, qué precio y qué programa de fidelización montar. Para ello, se deben llevar a cabo los siguientes pasos: 
+    p.mb-4 La empresa debe saber quiénes  son los consumidores a los que va dirigida su oferta y cada decisión hacia ellos, a ese grupo de clientes se le llama “mercado objetivo” o “mercado meta”.  Con ese mercado meta se puede tomar la decisión de qué publicidad se va a usar, qué precio y qué programa de fidelización montar. Para ello, se deben llevar a cabo los siguientes pasos: 
 
     TabsC.color-primario
       .py-3.py-md-4.bg26.px-3(titulo="Segmentación")
@@ -249,7 +249,7 @@
             p.mb-4 #[b Investiga a tus competidores.] Revisar lo que hacen tus competidores más importantes.
             p.mb-4 #[b Segmenta a los consumidores.] Con la información muy valiosa acerca de los consumidores, es hora de comenzar a separarlos en diferentes grupos (a esto se le llama segmentar al mercado). Estos distintos grupos serán la base del mercado meta.
             p.mb-4 #[b Escribir el mercado meta.] Tener el mercado meta definido y en papel no solamente es para que tener claridad sobre esto, sino también servirá para el entorno con proveedores externos, ellos entiendan tanto como a quién va dirigido el producto (piensa en diseñadores, fotógrafos, publicistas, entre otros). Ejemplo: “El mercado meta son hombres y mujeres de 18 a 30 años, con un poder adquisitivo alto, que estén interesados en festivales de música electrónica y viajes”.
-            p.mb-0 Redefinir el producto. Tomar decisiones para introducir cambios ajustados a lo que solicita ese segmento de mercado.
+            p.mb-0 #[b Redefinir el producto.] Tomar decisiones para introducir cambios ajustados a lo que solicita ese segmento de mercado.
       .py-3.py-md-4.bg26.px-3(titulo="Posicionamiento")
         .row.justify-content-center.p-4
           .col-lg-8
